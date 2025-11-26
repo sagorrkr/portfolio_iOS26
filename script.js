@@ -90,7 +90,7 @@ const translations = {
                     {
                         title: "Bachelor of Engineering, Nanjing University of Posts & Telecommunications(2018-2022)",
                         points: [
-                            "Bachelors Computer Science & Technology.",
+                            "Bachelors in Computer Science & Technology.",
                             "Major courseworks:  Data Structures & Algorithms, Computer Architecture, DBMS, Computer Communications and Networks, Information Security Technology."
                         ]
                     },
