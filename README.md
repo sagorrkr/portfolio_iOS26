@@ -44,7 +44,7 @@ A personal portfolio website with an iOS-inspired tile layout, WebGL animated ba
 - **Overview** — personal bio and research interests
 - **Experience** — Digital Ad Ops at ServicEngine Ltd. and Research Assistant at NJUPT
 - **Education** — Master's at Hohai University, Bachelor's at NJUPT, secondary education
-- **Skills** — ML/AI, programming, databases, ad tech, visualisation, tools, OS, languages
+- **Skills** — ML/AI, programming, databases, Ad tech, Visualisation, tools, OS, languages
 - **Certifications** — 8 certificates (Google, Microsoft, Coursera, Udemy) with direct links
 - **Projects & Awards** — 6 published research papers with links, scholarships, community award
 
