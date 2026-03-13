@@ -84,11 +84,11 @@ const translations = {
                     {
                         title: "Masters of Engineering - Hohai University, Nanjing, China (2024-ongoing)",
                         points: ["Masters in Information & Communication Engineering.",
-                                 "Major courseworks:  Digital Signal Processing, Digital Communications, Optimization Methods, Computer-Aided Design, Distributed Computing." 
+                                 "Major courseworks: Digital Signal Processing, Digital Communications, Optimization Methods, Computer-Aided Design, Distributed Computing." 
                         ]
                     },
                     {
-                        title: "Bachelor of Engineering, Nanjing University of Posts & Telecommunications(2018-2022)",
+                        title: "Bachelor of Engineering, Nanjing University of Posts & Telecommunications (2018-2022)",
                         points: [
                             "Bachelors in Computer Science & Technology.",
                             "Major courseworks:  Data Structures & Algorithms, Computer Architecture, DBMS, Computer Communications and Networks, Information Security Technology."
@@ -158,7 +158,7 @@ const translations = {
                         points: [
                             "Researched and developed models for classifying encrypted malware using machine learning techniques, including Random Forest, CNN, Logistic Regression, Naive Bayes, and Linear Regression.",
                             "Gathered and analyzed data using various statistical and machine learning tools.",
-                            "Build simulation tool to allocate data and predict molicious attacks of multiple potential scenarios using Python",
+                            "Built simulation tool to allocate data and predict malicious attacks of multiple potential scenarios using Python",
                             "Collaborated with a team of researchers to present findings at conferences and publish research papers in a relevant journal."
                         ]
                     },
@@ -210,7 +210,7 @@ const translations = {
                     "<a href='https://www.coursera.org/account/accomplishments/verify/B34BCJVCASFP' target='_blank' class='achievement-link'>谷歌广告入门课程</a>",
                     "<a href='https://skillshop.credential.net/33f3b3c3-2197-424d-ab83-23b17e9bcd25#acc.L5bNMkuh' target='_blank' class='achievement-link'>谷歌广告测量认证</a>",
                     "<a href='https://www.coursera.org/account/accomplishments/verify/R2Z7P74SDUFC' target='_blank' class='achievement-link'>商业分析与流程管理</a>",
-                    "<a href='https://www.udemy.com/certificate/UC-3746f766-8971-4613-ac00-0fe0a2d8ea74/' target='_blank' class='achievement-link'>Python机器学习（NumPy、Pandas及Matplotlib应用</a>",
+                    "<a href='https://www.udemy.com/certificate/UC-3746f766-8971-4613-ac00-0fe0a2d8ea74/' target='_blank' class='achievement-link'>Python机器学习（NumPy、Pandas及Matplotlib应用)</a>",
                     "<a href='https://www.coursera.org/account/accomplishments/verify/UAGWHVD4N3BG' target='_blank' class='achievement-link'>Microsoft Excel数据分析入门</a>",
                     "<a href='https://www.coursera.org/account/accomplishments/verify/UJAYAFT982CQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project' target='_blank' class='achievement-link'>AWS S3基础课程</a>"
                  ]
@@ -224,10 +224,11 @@ const translations = {
                     "Academic First Class scholarship Four-time recipient of scholarship (2018-2022)",
                     "<a href='https://twasp.info/journal/Rd3951HG/a-few-approaches-in-encrypted-malware-classifications' target='_blank' class='achievement-link'>A few approaches in Encrypted Malware Classifications [2022]</a>",
                     "<a href='https://mail.twasp.info/journal/Xs2831RV/hybrid-cnn-rnn-and-svm-techniques-for-improved-webshell-detection' target='_blank' class='achievement-link'>Hybrid CNN-RNN and SVM Techniques for Improved Webshell Detection[2024]</a>",
-                    "<a href='https://ieeexplore.ieee.org/abstract/document/11171834' target='_blank' class='achievement-link'>Analyzing Threats in Public Wi-Fi: A Study ofAttack Vectors, Vulnerability and User Awareness(2025)</a>",
+                    "<a href='https://ieeexplore.ieee.org/abstract/document/11171834' target='_blank' class='achievement-link'>Analyzing Threats in Public Wi-Fi: A Study of Attack Vectors, Vulnerability and User Awareness(2025)</a>",
                     "<a href='https://www.ijisrt.com/aipowered-spatial-computing-in-cad-a-review-of-immersive-design-tools-and-methods' target='_blank' class='achievement-link'>AI-Powered Spatial Computing in CAD: A Review of Immersive Design Tools and Methods(2025）</a>",
                     "<a href='https://twasp.info/journal/OE47162w/adaptive-ddos-detection-using-rfcnnbilstm-hybrid-pipeline' target='_blank' class='achievement-link'>Adaptive DDoS Detection Using RF–CNN–BiLSTM Hybrid Pipelin(2025)</a>",
-                    "<a href='https://www.ijisrt.com/a-study-on-digital-mti-processors-frequency-pulse' target='_blank' class='achievement-link'>A Study on Digital MTI Processors & Frequency pulse(2025)</a>"
+                    "<a href='https://www.ijisrt.com/a-study-on-digital-mti-processors-frequency-pulse' target='_blank' class='achievement-link'>A Study on Digital MTI Processors & Frequency pulse(2025)</a>",
+                    "<a href='https://proceedings.aijr.org/index.php/ap/article/view/122' target='_blank' class='achievement-link'>Addressing Security Vulnerabilities in Modern Cloud Computing: A Case Study and Hybrid Mitigation Approach(2025)</a>"
                 ],
                 Cn: [
                     "ISKCON孟加拉国中学证书优秀成绩社区奖（2014）",
@@ -237,7 +238,8 @@ const translations = {
                     "<a href='https://ieeexplore.ieee.org/abstract/document/11171834' target='_blank' class='achievement-link'>公共Wi-Fi威胁分析：攻击媒介、漏洞和用户意识研究（2025）</a>",
                     "<a href='https://www.ijisrt.com/aipowered-spatial-computing-in-cad-a-review-of-immersive-design-tools-and-methods' target='_blank' class='achievement-link'>CAD中的人工智能空间计算：沉浸式设计工具和方法综述（2025</a>",
                     "<a href='https://twasp.info/journal/OE47162w/adaptive-ddos-detection-using-rfcnnbilstm-hybrid-pipeline' target='_blank' class='achievement-link'>使用RF的自适应DDoS检测–CNN–BiLSTM混合管道（2025）</a>",
-                    "<a href='https://www.ijisrt.com/a-study-on-digital-mti-processors-frequency-pulse' target='_blank' class='achievement-link'>数字MTI处理器与频率脉冲研究（2025）</a>"
+                    "<a href='https://www.ijisrt.com/a-study-on-digital-mti-processors-frequency-pulse' target='_blank' class='achievement-link'>数字MTI处理器与频率脉冲研究（2025）</a>",
+                    "<a href='https://proceedings.aijr.org/index.php/ap/article/view/122' target='_blank' class='achievement-link'>现代云计算安全漏洞的应对：案例分析与混合缓解方法(2025)</a>"
                 ]
             }
         }
